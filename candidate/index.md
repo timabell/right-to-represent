@@ -3,6 +3,7 @@ title: Candidates, employees, job hunters & contractors
 layout: home
 ---
 
+![](../images/magnet-me-LDcC7aCWVlo-unsplash.jpg)
 
 ## Calling everyone who's applied for a job through a recruiter
 
