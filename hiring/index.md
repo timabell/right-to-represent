@@ -1,8 +1,9 @@
 ---
+title: Hiring managers, employers, internal recruiters & HR
 layout: home
 ---
 
-## Calling all hiring-managers, human resources recruiters and internal recruiters
+## Calling all hiring-managers, human resources professionals and internal recruiters
 
 Have you ever received the same CV from two different recruiters? What do you do now?
 

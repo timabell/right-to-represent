@@ -1,9 +1,10 @@
 ---
+title: Candidates, employees, job hunters & contractors
 layout: home
 ---
 
 
-## Calling all job-hunters and contractors
+## Calling everyone who's applied for a job through a recruiter
 
 In your search for jobs / contractors did you know that your chances of getting the perfect role can be sunk because some shady recruiter has managed to get hold of your CV and sent it in **without even asking you**?
 
