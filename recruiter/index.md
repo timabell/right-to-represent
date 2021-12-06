@@ -3,6 +3,7 @@ title: Recruiters, agencies and consultancies
 layout: home
 ---
 
+![](../images/icons8-team-r-enAOPw8Rs-unsplash.jpg)
 
 ## Calling all ethical recruiters
 
