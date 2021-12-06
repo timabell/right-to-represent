@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Right to represent
+title: Right to Represent
 email: tim@charmconsulting.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Eliminate duplicate CV submissions.

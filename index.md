@@ -1,10 +1,11 @@
 ---
+title: Let's fix the "right to represent" together
 layout: home
 ---
 
 ## The problem with duplicate CV submissions
 
-Duplicate submissions costs the tech industry dearly:
+Duplicate submissions add painful costs to the tech industry:
 
 * Candidates and contractors are losing great opportunities
 * Recruitment firms are losing commissions and getting into legal wrangling with clients and competitors
