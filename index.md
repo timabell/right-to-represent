@@ -1,7 +1,9 @@
 ---
-title: Let's fix the "right to represent" together
+title: Let's fix the "right to represent" problem together
 layout: home
 ---
+
+![](images/elisa-ventur-bmJAXAz6ads-unsplash.jpg)
 
 ## The problem with duplicate CV submissions
 
